@@ -25,11 +25,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
+<!-- ---
 
 [![MCGradle Scripts](https://github-readme-stats.vercel.app/api/pin/?username=Jonathing&repo=Public-Music-Repo&show_owner=true)](https://github.com/Jonathing/Public-Music-Repo)
 [![MCGradle Scripts](https://github-readme-stats.vercel.app/api/pin/?username=Cryptic-Mushroom&repo=The-Midnight&show_owner=true)](https://github.com/Cryptic-Mushroom/The-Midnight)
-[![MCGradle Scripts](https://github-readme-stats.vercel.app/api/pin/?username=Jonathing&repo=MCGradle-Scripts&show_owner=true)](https://github.com/Jonathing/MCGradle-Scripts)
+[![MCGradle Scripts](https://github-readme-stats.vercel.app/api/pin/?username=Jonathing&repo=MCGradle-Scripts&show_owner=true)](https://github.com/Jonathing/MCGradle-Scripts) -->
 
 [website]: https://colmenares.codes
 [youtube]: https://www.youtube.com/c/Jonathing
