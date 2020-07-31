@@ -13,12 +13,16 @@
 ### Places you can find me
 
 [<img align="left" alt="colmenares.codes" width="22px" src="https://img.icons8.com/nolan/2048/domain.png" />][website]
-[<img align="left" alt="The Jonathing YouTube Channel" width="22px" src="https://img.icons8.com/nolan/2048/youtube-squared.png" />][youtube]
+[<img align="left" alt="The Jonathing YouTube Channel" width="22px" src="https://img.icons8.com/nolan/2048/youtube-play.png" />][youtube]
 [<img align="left" alt="Jonathing on Facebook" width="22px" src="https://img.icons8.com/nolan/2048/facebook-new.png" />][facebook]
 [<img align="left" alt="Jonathing on Twitter" width="22px" src="https://img.icons8.com/nolan/2048/twitter.png" />][twitter]
 
 <br />
 <br />
+
+---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jonathing)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://colmenares.codes
 [youtube]: https://www.youtube.com/c/Jonathing
