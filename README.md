@@ -21,7 +21,13 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jonathing&count_private=true&show_icons=true&theme=onedark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jonathing&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+---
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://colmenares.codes
 [youtube]: https://www.youtube.com/c/Jonathing
