@@ -21,7 +21,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jonathing)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jonathing&count_private=true&show_icons=true&theme=onedark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://colmenares.codes
 [youtube]: https://www.youtube.com/c/Jonathing
