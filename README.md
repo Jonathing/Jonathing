@@ -17,6 +17,8 @@
 [<img align="left" alt="Jonathing on Facebook" width="22px" src="https://img.icons8.com/nolan/2048/facebook-new.png" />][facebook]
 [<img align="left" alt="Jonathing on Twitter" width="22px" src="https://img.icons8.com/nolan/2048/twitter.png" />][twitter]
 
+<br />
+
 ---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jonathing)](https://github.com/anuraghazra/github-readme-stats)
