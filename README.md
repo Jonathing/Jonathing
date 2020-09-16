@@ -8,7 +8,7 @@
 ## I'm also a programmer
 
 - How could I be on GitHub and not have any sort of relation with computer programming? I code in Java and am learning other OOP languages such as C++ and C#.
-- I am mainly known online for helping around with Minecraft mods. I am the lead QA for [Cryptic Mushroom](https://crypticmushroom.com/) and am an active contributor for [Modding Legacy](https://moddinglegacy.com/).
+- I am mainly known online for helping around with Minecraft mods. I am the lead QA for [Cryptic Mushroom](https://crypticmushroom.com/) and a developer for [Modding Legacy](https://moddinglegacy.com/).
 
 ### Places you can find me
 
