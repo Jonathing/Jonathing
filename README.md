@@ -3,16 +3,16 @@
 ## I write music
 
 - I am currently studying Music Composition in college and am looking to be a professional composer! While it may not seem like it, I have already written some pieces behind the scenes.
-- I am hosting a [public music repository](https://github.com/Jonathing/Public-Music-Repo) here on GitHub where you can listen to and download any songs that I have freely released (though do watch any licensing).
+- Please read my [public Gist](https://gist.github.com/dfdae37e09d969ea1d8b0166f10fa99e) where I discuss my policy on what and how you can use my music.
 
 ## I'm also a programmer
 
 - How could I be on GitHub and not have any sort of relation with computer programming? I code in Java and am learning other OOP languages such as C++ and C#.
-- I am mainly known online for helping around with Minecraft mods. I am the lead QA for [Cryptic Mushroom](https://crypticmushroom.com/) and a developer for [Modding Legacy](https://moddinglegacy.com/).
+- I am mainly known online for helping around with Minecraft mods. I am the lead QA, community manager, assistant developer, and musician for [Cryptic Mushroom](https://crypticmushroom.com/) and an assistant developer and musician for [Modding Legacy](https://moddinglegacy.com/).
 
 ### Places you can find me
 
-[<img align="left" alt="colmenares.codes" width="22px" src="https://img.icons8.com/nolan/2048/domain.png" />][website]
+[<img align="left" alt="jonathing.me" width="22px" src="https://img.icons8.com/nolan/2048/domain.png" />][website]
 [<img align="left" alt="The Jonathing YouTube Channel" width="22px" src="https://img.icons8.com/nolan/2048/youtube-play.png" />][youtube]
 [<img align="left" alt="Jonathing on Facebook" width="22px" src="https://img.icons8.com/nolan/2048/facebook-new.png" />][facebook]
 [<img align="left" alt="Jonathing on Twitter" width="22px" src="https://img.icons8.com/nolan/2048/twitter.png" />][twitter]
@@ -31,7 +31,7 @@
 [![MCGradle Scripts](https://github-readme-stats.vercel.app/api/pin/?username=Cryptic-Mushroom&repo=The-Midnight&show_owner=true)](https://github.com/Cryptic-Mushroom/The-Midnight)
 [![MCGradle Scripts](https://github-readme-stats.vercel.app/api/pin/?username=Jonathing&repo=MCGradle-Scripts&show_owner=true)](https://github.com/Jonathing/MCGradle-Scripts) -->
 
-[website]: https://colmenares.codes
+[website]: https://jonathing.me
 [youtube]: https://www.youtube.com/c/Jonathing
 [facebook]: https://www.facebook.com/RealJonathing/
 [twitter]: https://twitter.com/RealJonathing
