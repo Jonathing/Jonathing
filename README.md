@@ -13,8 +13,8 @@
 ### Places you can find me
 
 [<img align="left" alt="jonathing.me" width="22px" src="https://img.icons8.com/nolan/128/domain.png" />][website]
+[<img align="left" alt="Jonathing on GitLab" width="22px" src="https://img.icons8.com/nolan/128/gitlab.png" />][gitlab]
 [<img align="left" alt="The Jonathing YouTube Channel" width="22px" src="https://img.icons8.com/nolan/128/youtube-play.png" />][youtube]
-[<img align="left" alt="Jonathing on Facebook" width="22px" src="https://img.icons8.com/nolan/128/facebook-new.png" />][facebook]
 
 <br />
 
@@ -25,5 +25,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathing&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://jonathing.me
+[gitlab]: https://gitlab.com/Jonathing
 [youtube]: https://www.youtube.com/c/Jonathing
-[facebook]: https://www.facebook.com/RealJonathing/
