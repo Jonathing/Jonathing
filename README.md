@@ -18,8 +18,6 @@
 
 <br />
 
----
-
 [website]: https://jonathing.me
 [gitlab]: https://gitlab.com/Jonathing
 [youtube]: https://www.youtube.com/c/Jonathing
