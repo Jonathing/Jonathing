@@ -32,7 +32,9 @@ Although I am no longer a direct member of the team who works on The Midnight, I
 
 ### JupiterSoft
 
-My primary project related to Minecraft modding is the [GENESIS](https://www.curseforge.com/minecraft/modpacks/genesis-pack) modpack, created by @CrystalZink and owned by JupiterSoft. My main role is developing the core mod (comically known as the schizomod in our community) that patches the game and related mods to better fit the modpack's design philosophy, which tends to stray away from the typical "Vanilla+" design style that a vast majority of mods and modpacks opt in to.
+My primary project related to Minecraft modding is the [GENESIS](https://www.curseforge.com/minecraft/modpacks/genesis-pack) modpack, created by [Ice](https://linktr.ee/icycrystal) and owned by JupiterSoft. My main role is developing the core mod (comically known as the schizomod in our community) that patches the game and related mods to better fit the modpack's design philosophy, which tends to stray away from the typical "Vanilla+" design style that a vast majority of mods and modpacks opt in to.
+
+If this interests you, you can join our discord server here: https://discord.gg/S5andYmUvh
 
 ### [Modding Legacy](https://moddinglegacy.com/)
 
