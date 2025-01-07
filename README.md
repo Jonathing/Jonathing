@@ -1,23 +1,47 @@
-### Hi, I'm Jonathing.
+# [Jonathing](https://jonathing.me)
 
-## I write music
+I'm Jonathan, also known online as Jonathing. I do things with Minecraft sometimes. I also want to make video games.
 
-- I am currently studying Music Composition in college and am looking to be a professional composer! While it may not seem like it, I have already written some pieces behind the scenes.
-- Please read my [public Gist](https://gist.github.com/dfdae37e09d969ea1d8b0166f10fa99e) where I discuss my policy on what and how you can use my music.
+## Video Game Development
 
-## I'm also a programmer
+While still very inexperienced in this field, my primary goal is to develop video games. For me, this can mean making them, helping make them, writing music for them, or anything in between. While so far most of my game design experience has been in Minecraft modding, I'm actively pivoting more towards video game development in recent years.
 
-- How could I be on GitHub and not have any sort of relation with computer programming? I code in Java, and I am learning other OOP languages such as C# and Go.
-- I am mainly known online for helping around with Minecraft mods. I am a community manager, programmer, and musician for [Cryptic Mushroom](https://crypticmushroom.com/) and a programmer and musician for [Modding Legacy](https://moddinglegacy.com/).
+### [Cryptic Mushroom](https://discord.gg/uEM6WmQ5tT)
 
-### Places you can find me
+Cryptic Mushroom is a team of aspiring video game developers with previous experience in Minecraft modding. We're currently most known for creating the Minecraft mod The Midnight, but we've recently begun a shift towards trying out standalone video game development.
 
-[<img align="left" alt="jonathing.me" width="22px" src="https://img.icons8.com/nolan/128/domain.png" />][website]
-[<img align="left" alt="Jonathing on GitLab" width="22px" src="https://img.icons8.com/nolan/128/gitlab.png" />][gitlab]
-[<img align="left" alt="The Jonathing YouTube Channel" width="22px" src="https://img.icons8.com/nolan/128/youtube-play.png" />][youtube]
+We still have a team who actively works on The Midnight, though, and my job as Organization Manager is to oversee that project and make sure it continues to be in a healthy state, even if development can stagnate at times.
 
-<br />
+I'm excited to delve further into video game development with Cryptic Mushroom later this year, and I hope to be able to share more regarding soon! Until then, stay tuned.
 
-[website]: https://jonathing.me
-[gitlab]: https://gitlab.com/Jonathing
-[youtube]: https://www.youtube.com/c/Jonathing
+## Music Composition
+
+My current primary skill, considering I recently finished undergraduate school for it, is music composition. While I have not done many works as "Jonathing", I have a lot of experience writing music as a student and occasionally for other projects.
+
+If you're interested in seeing my public music, you can visit my Bandcamp here: https://jonathing.bandcamp.com/
+
+## Minecraft
+
+I am (probably) most known online for the work I do regarding Minecraft. I've been working on Minecraft-related projects since around 2016.
+
+### [The Midnight](https://www.curseforge.com/minecraft/mc-mods/the-midnight)
+
+For around 4 years from 2020 until 2024, I was the project manager and lead programmer for The Midnight, a Minecraft mod by Cryptic Mushroom and its first project that took off. I was responsible for leading the charge of rewriting the project during the Minecraft 1.16 era, and that rewrite was eventually released as version 0.6.0 for Minecraft 1.19.4.
+
+Although I am no longer a direct member of the team who works on The Midnight, I continue to oversee their progress as Cryptic Mushroom's organization manager, giving programming insight where necessary and occasionally helping to keep the project in a healthy state.
+
+### JupiterSoft
+
+My primary project related to Minecraft modding is the [GENESIS](https://www.curseforge.com/minecraft/modpacks/genesis-pack) modpack, created by @CrystalZink and owned by JupiterSoft. My main role is developing the core mod (comically known as the schizomod in our community) that patches the game and related mods to better fit the modpack's design philosophy, which tends to stray away from the typical "Vanilla+" design style that a vast majority of mods and modpacks opt in to.
+
+### [Modding Legacy](https://moddinglegacy.com/)
+
+Since 2020, I have been a member of the Minecraft modding team Modding Legacy. For my first three years, I consistently contributed to their projects while assisting Jon Lachney with website maintenance and the management of their Jenkins and SonaType Nexus services.
+
+While I am no longer a direct programmer of the Minecraft projects nowadays, I am still primarily responsible for the service maintainence of the Nexus maven repository.
+
+### [Minecraft Forge](https://github.com/MinecraftForge)
+
+As a result of my Minecraft modding endeavours, I found myself frequently contributing to Minecraft Forge, the popular mod loader that I used as a framework to base my projects on. Since 2022, I have been a contributor of the project.
+
+As of 2025, I am a core team member of the Minecraft Forge development team. My primary reposponsibilities involve backporting future changes to older versions of Forge as well as the rewrite of various projects (most notably the toolchain). For the most part, I tend to keep to the development-related channels in our discussion areas and stray away from the general commnuity side of things so I can focus on improving the project itself rather than community management.
