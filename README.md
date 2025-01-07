@@ -24,17 +24,17 @@ If you're interested in seeing my public music, you can visit my Bandcamp here: 
 
 I am (probably) most known online for the work I do regarding Minecraft. I've been working on Minecraft-related projects since around 2016.
 
-### [The Midnight](https://www.curseforge.com/minecraft/mc-mods/the-midnight)
-
-For around 4 years from 2020 until 2024, I was the project manager and lead programmer for The Midnight, a Minecraft mod by Cryptic Mushroom and its first project that took off. I was responsible for leading the charge of rewriting the project during the Minecraft 1.16 era, and that rewrite was eventually released as version 0.6.0 for Minecraft 1.19.4.
-
-Although I am no longer a direct member of the team who works on The Midnight, I continue to oversee their progress as Cryptic Mushroom's organization manager, giving programming insight where necessary and occasionally helping to keep the project in a healthy state.
-
 ### JupiterSoft
 
 My primary project related to Minecraft modding is the [GENESIS](https://www.curseforge.com/minecraft/modpacks/genesis-pack) modpack, created by [Ice](https://linktr.ee/icycrystal) and owned by JupiterSoft. My main role is developing the core mod (comically known as the schizomod in our community) that patches the game and related mods to better fit the modpack's design philosophy, which tends to stray away from the typical "Vanilla+" design style that a vast majority of mods and modpacks opt in to.
 
 If this interests you, you can join our discord server here: https://discord.gg/S5andYmUvh
+
+### [The Midnight](https://www.curseforge.com/minecraft/mc-mods/the-midnight)
+
+For around 4 years from 2020 until 2024, I was the project manager and lead programmer for The Midnight, a Minecraft mod by Cryptic Mushroom and its first project that took off. I was responsible for leading the charge of rewriting the project during the Minecraft 1.16 era, and that rewrite was eventually released as version 0.6.0 for Minecraft 1.19.4.
+
+Although I am no longer a direct member of the team who works on The Midnight, I continue to oversee their progress as Cryptic Mushroom's organization manager, giving programming insight where necessary and occasionally helping to keep the project in a healthy state.
 
 ### [Modding Legacy](https://moddinglegacy.com/)
 
